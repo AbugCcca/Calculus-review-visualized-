@@ -1,0 +1,26 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.fig
+*.mdl.autosave
+*.slx.autosave
+*.log
+*.mex*
+*.bak
+
+# Simulink cache and builds
+slprj/
+sccprj/
+*.slxc
+*.slx
+*.mdl
+
+# User-specific MATLAB settings
+*.prj
+*.mlproj
+*.mldatx
+*.mat
+
+# Other temporary files
+.DS_Store
+Thumbs.db
